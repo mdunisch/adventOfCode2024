@@ -1,0 +1,1 @@
+deno run --allow-read solution.ts 1
