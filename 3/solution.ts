@@ -1,4 +1,3 @@
-
 export function part1(input: string) {
 
     const searchExp = /mul\((\d{1,3}),(\d{1,3})\)/g;
