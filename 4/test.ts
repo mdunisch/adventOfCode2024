@@ -20,7 +20,5 @@ Deno.test("part 1", () => {
 
 
 Deno.test("part 2", () => {
-  
-  
   assertEquals(part2(input), 9);
 });
